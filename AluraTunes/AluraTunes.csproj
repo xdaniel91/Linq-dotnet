@@ -112,8 +112,10 @@
     <Compile Include="Dados\TipoMidia.cs">
       <DependentUpon>DatabaseEntities.tt</DependentUpon>
     </Compile>
+    <Compile Include="Paginacao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Subconsulta.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
