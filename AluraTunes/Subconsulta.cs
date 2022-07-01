@@ -6,8 +6,6 @@ namespace AluraTunes
 {
     public static class Subconsulta
     {
-        static Subconsulta() { }
-
         public static void Executar()      
         {
             var context = new DatabaseEntities();
@@ -28,9 +26,10 @@ namespace AluraTunes
             {
                 Console.WriteLine($"{nf.NotaFiscalId} | {nf.DataNotaFiscal.ToString("dd/MM/yyyy")} | {nf.Cliente} | {nf.Total}");
             }
+            
             Console.WriteLine($"A média é: {queryMedia}");
             Console.ReadKey();
+
         }
- 
     }
 }

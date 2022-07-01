@@ -112,6 +112,7 @@
     <Compile Include="Dados\TipoMidia.cs">
       <DependentUpon>DatabaseEntities.tt</DependentUpon>
     </Compile>
+    <Compile Include="ItemMaisVendido.cs" />
     <Compile Include="Paginacao.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

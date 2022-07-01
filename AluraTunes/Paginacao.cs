@@ -6,8 +6,6 @@ namespace AluraTunes
 {
     public static class Paginacao
     {
-         static Paginacao() { }
-
         public static void Executar()
         {
             var context = new DatabaseEntities();
