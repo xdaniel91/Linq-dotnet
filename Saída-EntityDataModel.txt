@@ -1,0 +1,9 @@
+﻿Generated model file: DatabaseEntities.edmx.
+Loading metadata from the database took 00:00:01.6498857.
+Generating the model took 00:00:03.4800143.
+Generated model file: DatabaseEntities.edmx.
+Loading metadata from the database took 00:00:01.1948188.
+Generating the model took 00:00:01.8561884.
+Generated model file: DatabaseEntities.edmx.
+Loading metadata from the database took 00:00:01.2619846.
+Generating the model took 00:00:02.0292428.
